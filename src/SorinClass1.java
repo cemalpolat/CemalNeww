@@ -4,6 +4,13 @@ public class SorinClass1 {
 
 
         System.out.println("Hello Cemal");
+
+
+        System.out.println("Cemal addition");
+
+        System.out.println("We done conflict");
+
+
     }
 
 
